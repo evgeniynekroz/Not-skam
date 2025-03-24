@@ -1,1 +1,2 @@
-# Not-skam
+# Not spam
+lol
